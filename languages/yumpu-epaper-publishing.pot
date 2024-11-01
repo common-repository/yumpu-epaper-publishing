@@ -1,0 +1,144 @@
+# Copyright (C) 2024 Yumpu.com
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: YUMPU E-Paper publishing 3.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-27T12:39:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: yumpu-epaper-publishing\n"
+
+#. Plugin Name of the plugin
+#: yumpu.php
+msgid "YUMPU E-Paper publishing"
+msgstr ""
+
+#. Description of the plugin
+#: yumpu.php
+msgid "YUMPU is a free PDF to E-Paper site. The Service allows you to upload a PDF and embed it as an E-Paper via shortcode."
+msgstr ""
+
+#. Author of the plugin
+#: yumpu.php
+msgid "Yumpu.com"
+msgstr ""
+
+#. Author URI of the plugin
+#: yumpu.php
+msgid "https://www.yumpu.com"
+msgstr ""
+
+#: lib/API.php:31
+msgid "Security check"
+msgstr ""
+
+#: lib/API.php:92
+msgid "Access denied."
+msgstr ""
+
+#: lib/Shortcode.php:31
+msgid "Misconfigured shortcode"
+msgstr ""
+
+#: lib/Shortcode.php:38
+msgid "E-Paper in progress"
+msgstr ""
+
+#: lib/Shortcode.php:46
+msgid "E-Paper not found"
+msgstr ""
+
+#: lib/Views/DocumentList.php:37
+msgid "E-Paper powered by"
+msgstr ""
+
+#: lib/Views/DocumentList.php:38
+msgid "Add New"
+msgstr ""
+
+#: lib/Views/DocumentList.php:44
+#: lib/Views/DocumentUpload.php:41
+msgid "Title"
+msgstr ""
+
+#: lib/Views/DocumentList.php:45
+msgid "Shortcode"
+msgstr ""
+
+#: lib/Views/DocumentList.php:46
+msgid "Visibility"
+msgstr ""
+
+#: lib/Views/DocumentList.php:47
+msgid "Created"
+msgstr ""
+
+#: lib/Views/DocumentList.php:80
+msgid "records per page"
+msgstr ""
+
+#: lib/Views/DocumentList.php:82
+msgid "Search"
+msgstr ""
+
+#: lib/Views/DocumentList.php:83
+msgid "No E-Paper to show."
+msgstr ""
+
+#: lib/Views/DocumentList.php:99
+msgid "Edit"
+msgstr ""
+
+#: lib/Views/DocumentUpload.php:11
+#: lib/Views/DocumentUpload.php:31
+#: lib/Views/DocumentUpload.php:50
+msgid "Upload document"
+msgstr ""
+
+#: lib/Views/DocumentUpload.php:37
+msgid "PDF document"
+msgstr ""
+
+#: lib/Views/DocumentUpload.php:45
+msgid "Description"
+msgstr ""
+
+#: lib/Views/DocumentUpload.php:66
+msgid "Document uploaded successfully."
+msgstr ""
+
+#: lib/Views/Settings.php:29
+#: lib/Views/Settings.php:30
+msgid "YUMPU plugin settings"
+msgstr ""
+
+#: lib/Views/Settings.php:48
+msgid "Invalid API Token"
+msgstr ""
+
+#: lib/Views/Settings.php:77
+msgid "API key"
+msgstr ""
+
+#: lib/Views/Settings.php:108
+msgid "Save Settings"
+msgstr ""
+
+#: yumpu.php:45
+msgid "Get your YUMPU API Key from your account and add it"
+msgstr ""
+
+#: yumpu.php:45
+#: yumpu.php:46
+msgid "here"
+msgstr ""
+
+#: yumpu.php:46
+msgid "You can get more information"
+msgstr ""
